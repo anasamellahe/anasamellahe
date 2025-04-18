@@ -28,7 +28,7 @@ I'm a passionate software developer exploring the world of coding and learning a
 
 ## 💡 Projects
 
-### 🔹 [Libft](https://github.com//libft)
+### 🔹 [Libft](https://github.com/anasamellahe/libft)
 **Language**: C  
 A custom C library that recreates many standard C library functions, like `strlen()`, `strlcpy()`, `calloc()`, and more. This foundational project helped me understand the inner workings of C functions and memory management.
 
